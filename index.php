@@ -1,18 +1,17 @@
 <!DOCTYPE html>
+
 <html>
     <head>
-        <title> Turan et Fils </title>
+        <link  rel="stylesheet" type="text/css" href="assets\css.css" />
+        <link rel="icon" type="image/gif" href="assets\ico.gif" />
+        <title> ACCUEIL </title>
     </head>
 
     <body>
-    <nav>
-        <ul>
-            <li><a href="index.php">Acceuil</a> </li>
-            <li><a href="Service.php">Service</a> </li>
-            <li><a href="Contact.php">Contact</a> </li>
-
-
-        </ul>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="index.php">Accueil</a>
+        <a class="navbar-brand" href="Service.php">Service</a>
+        <a class="navbar-brand" href="Contact.php">Contact</a>
     </nav>
 
     <h1> Presentation</h1>
