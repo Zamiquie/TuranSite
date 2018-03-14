@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02d19a8f-b201-41ea-9108-dfd57b388f1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +50,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="590" />
+    <option name="x" value="1" />
     <option name="width" value="882" />
     <option name="height" value="1038" />
   </component>
@@ -132,17 +131,33 @@
       <workItem from="1521019070025" duration="906000" />
 =======
       <workItem from="1521017914490" duration="180000" />
+<<<<<<< HEAD
+      <workItem from="1521019679699" duration="198000" />
+=======
       <workItem from="1521019679699" duration="22000" />
 >>>>>>> f779e51be54b9bc61e3aa81b0692f2043f6ea70a
+>>>>>>> ea24465220d9ed026cf9939725253e614b6de02e
     </task>
+    <task id="LOCAL-00001" summary="modif">
+      <created>1521019726025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521019726026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="391000" />
+=======
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="2025000" />
 =======
     <option name="totallyTimeSpent" value="215000" />
 >>>>>>> f779e51be54b9bc61e3aa81b0692f2043f6ea70a
+>>>>>>> ea24465220d9ed026cf9939725253e614b6de02e
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -186,6 +201,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
