@@ -2,7 +2,8 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>Titre de la page</title>
+    <title>GALERIE</title>
+    <link rel="icon" type="image/gif" href="assets\ico.gif" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
@@ -10,6 +11,16 @@
 
 </head>
 <body>
+
+<!-- NavBAR -->
+<nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="index.php">Accueil</a>
+    <a class="navbar-brand" href="Service.php">Service</a>
+    <a class="navbar-brand" href="Galerie.php">Galerie</a>
+    <a class="navbar-brand" href="Contact.php">Contact</a>
+</nav>
+
+<!-- Galerie Photo -->
 <div class="container gallery-container">
 
     <div class ="tz-gallery">
