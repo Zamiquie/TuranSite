@@ -13,6 +13,7 @@
 <div class="container gallery-container">
 
     <div class ="tz-gallery">
+
         <div class="row">
             <?php
             $dir_nom = 'assets/galerie'; // dossier listé (pour lister le répertoir courant : $dir_nom = '.'  --> ('point')
@@ -30,7 +31,7 @@
                 sort($fichier);// pour le tri croissant, rsort() pour le tri décroissant
                 //echo "<p>Liste des images accessibles sur l'hebergeur : \n\n</p>";
                 foreach($fichier as $lien) {
-                    echo "<div class=\"col-sm-6 col-md-4\"><a class=\"lightbox\" href=\"$dir_nom/$lien \"><img src=\"$dir_nom/$lien \" width=\"305\" height=\"25\" alt=\"Park\"></a></div>";
+                    echo "<div class=\"col-sm-6 col-md-4\"><a class=\"lightbox\" href=\"$dir_nom/$lien \"><img src=\"$dir_nom/$lien \" width=\"305\" height=\"259\" alt=\"Park\"></a></div>";
                 }
             }
             ?>
